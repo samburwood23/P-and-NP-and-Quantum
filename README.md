@@ -11,9 +11,7 @@ This repository explores the fundamental question of P vs NP through the lens of
 ```
 IF (can_verify_quickly(solution))
 THEN (can_find_quickly(solution)) ?
-```
-
-mindmap
+```mindmap
   root((🌐 Root))
     🧠 Complexity Theory
       🧩 Complexity Classes
