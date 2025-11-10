@@ -11,7 +11,7 @@ This repository explores the fundamental question of P vs NP through the lens of
 ```
 IF (can_verify_quickly(solution))
 THEN (can_find_quickly(solution)) ?
-
+```
 ## 📚 Wiki Contents
 
 Our comprehensive wiki explores this question through multiple perspectives:
