@@ -184,9 +184,6 @@ This is a living exploration. Contributions welcome on:
 
 **Author:** Sam Burwood
 
-* DevOps Engineer @ HSBC
-* Specialisations: HashiCorp Vault, GCP Infrastructure, Terraform IaC, CI/CD Pipelines
-* Interests: Quantum computing, complexity theory, practical philosophy of engineering
   **Resources:**
 * [Clay Mathematics Institute – P vs NP](https://www.claymath.org)
 * [Computational Complexity: A Modern Approach](https://theory.cs.princeton.edu)
